@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ConsoleApplication1.cpp">
+    <ClCompile Include="Symmetric-ButterflyPattern.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Symmetric-VoidPatternSource.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
