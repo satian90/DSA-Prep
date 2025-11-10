@@ -41,8 +41,8 @@ void symmetricButterflyPattern ()
 	}
 }
 
-int main()
-{
-	symmetricButterflyPattern();
-	return 0;
-}
+//int main()
+//{
+//	symmetricButterflyPattern();
+//	return 0;
+//}

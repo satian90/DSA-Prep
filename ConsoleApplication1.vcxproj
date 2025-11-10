@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="HollowRectangle.cpp" />
     <ClCompile Include="Symmetric-ButterflyPattern.cpp" />
     <ClCompile Include="Symmetric-VoidPatternSource.cpp" />
   </ItemGroup>

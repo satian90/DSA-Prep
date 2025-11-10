@@ -21,5 +21,8 @@
     <ClCompile Include="Symmetric-VoidPatternSource.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="HollowRectangle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
