@@ -9,7 +9,7 @@ void hollowRectangle(int n)
 		{
 			if (i == 0 || j == 0 || i == n-1 || j == n-1 )
 			{
-				cout << "*";
+				cout << "I";
 			}
 			else
 			{
@@ -21,8 +21,8 @@ void hollowRectangle(int n)
 	}
 }
 
-int main()
-{
-	hollowRectangle(4);
-	return 0;
-}
+//int main()
+//{
+//	hollowRectangle(14);
+//	return 0;
+//}
