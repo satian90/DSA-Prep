@@ -142,6 +142,7 @@
     <ClCompile Include="CountDigits.cpp" />
     <ClCompile Include="HollowRectangle.cpp" />
     <ClCompile Include="NumberPattern.cpp" />
+    <ClCompile Include="ReverseDigits.cpp" />
     <ClCompile Include="Symmetric-ButterflyPattern.cpp" />
     <ClCompile Include="Symmetric-VoidPatternSource.cpp" />
   </ItemGroup>

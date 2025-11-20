@@ -21,11 +21,11 @@ void CountDigits(int n)
 	cout << "Count:" << count<<endl;
 }
 
-void main()
-{
-	cout << "Enter:";
-	int n = 0;
-	cin >> n;
-	CountDigitsOptimal(n);
-	CountDigits(n);
-}
+//void main()
+//{
+//	cout << "Enter:";
+//	int n = 0;
+//	cin >> n;
+//	CountDigitsOptimal(n);
+//	CountDigits(n);
+//}
