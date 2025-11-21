@@ -1,3 +1,4 @@
 ﻿  ReverseDigits.cpp
-C:\Users\Administrator.EXAM-PRIYANKA\source\repos\ConsoleApplication1\ConsoleApplication1\ReverseDigits.cpp(22,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Administrator.EXAM-PRIYANKA\source\repos\ConsoleApplication1\ConsoleApplication1\ReverseDigits.cpp(26,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Administrator.EXAM-PRIYANKA\source\repos\ConsoleApplication1\ConsoleApplication1\ReverseDigits.cpp(23): warning C4715: 'reverseDigit': not all control paths return a value
   ConsoleApplication1.vcxproj -> C:\Users\Administrator.EXAM-PRIYANKA\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.exe
