@@ -22,10 +22,10 @@ int reverseDigit(int n)
 	cout << num;
 }
 
-void main()
-{
-	cout << "Enter:";
-	int t;
-	cin >> t;
-	reverseDigit(t);
-}
+//void main()
+//{
+//	cout << "Enter:";
+//	int t;
+//	cin >> t;
+//	reverseDigit(t);
+//}

@@ -33,5 +33,8 @@
     <ClCompile Include="ReverseDigits.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Palindrome.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
