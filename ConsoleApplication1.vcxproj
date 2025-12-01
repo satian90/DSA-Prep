@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="CountDigits.cpp" />
+    <ClCompile Include="GCD.cpp" />
     <ClCompile Include="HollowRectangle.cpp" />
     <ClCompile Include="NumberPattern.cpp" />
     <ClCompile Include="Palindrome.cpp" />

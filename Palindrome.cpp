@@ -25,12 +25,12 @@ bool palindrome(int actualNum)
 		}
 }
 
-void main()
-{
-	int n;
-	cout << "enter:";
-	cin >> n;
-	bool pal = palindrome(n);
-
-	cout << (pal ? "The no. is a palindrome" : "the no. is not a palindrome");
-}
+//void main()
+//{
+//	int n;
+//	cout << "enter:";
+//	cin >> n;
+//	bool pal = palindrome(n);
+//
+//	cout << (pal ? "The no. is a palindrome" : "the no. is not a palindrome");
+//}
