@@ -39,5 +39,8 @@
     <ClCompile Include="GCD.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Armstrong.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

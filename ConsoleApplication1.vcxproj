@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Armstrong.cpp" />
     <ClCompile Include="CountDigits.cpp" />
     <ClCompile Include="GCD.cpp" />
     <ClCompile Include="HollowRectangle.cpp" />

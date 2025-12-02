@@ -16,16 +16,16 @@ int gcd(int num1,int num2)
 	return 0;
 }
 
-void main()
-{
-	int num1 = 0, num2 = 0;
-
-	cout << "Enter nos.";
-
-	cin >> num1>>num2;
-
-	int gcdivisor = gcd(num1, num2);
-
-	cout << "Greatest divisor is:"<<gcdivisor;
-	
-}
+//void main()
+//{
+//	int num1 = 0, num2 = 0;
+//
+//	cout << "Enter nos.";
+//
+//	cin >> num1>>num2;
+//
+//	int gcdivisor = gcd(num1, num2);
+//
+//	cout << "Greatest divisor is:"<<gcdivisor;
+//	
+//}
