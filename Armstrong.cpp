@@ -18,14 +18,13 @@ int armstrong(int num)
 
 	}
 	return sum;
-
 }
 
-void main()
-{
-	int num = 0;
-	cout << "Enter:";
-	cin >> num;
-	int sum = armstrong(num);
-	cout << "armstrong:" << sum;
-}
+//void main()
+//{
+//	int num = 0;
+//	cout << "Enter:";
+//	cin >> num;
+//	int sum = armstrong(num);
+//	cout << "armstrong:" << sum;
+//}

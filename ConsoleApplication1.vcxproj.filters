@@ -42,5 +42,8 @@
     <ClCompile Include="Armstrong.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Divisor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
