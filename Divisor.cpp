@@ -37,24 +37,24 @@ vector<int> divisorsOptimal(int num)
 	return divisorList;
 }
 
-
-void main()
-{
-	int num = 0;
-	cout << "enter:";
-	cin >> num;
-
-	vector<int> divisorsList = divisors(num);
-
-	vector<int> divisorListOptimal = divisorsOptimal(num);
-
-	for (int divisor : divisorsList)
-	{
-		cout << divisor << " ";
-	}
-	cout << "Optimal"<< endl;
-	for (int divisorO : divisorListOptimal)
-	{
-		cout << divisorO << " ";
-	}
-}
+//
+//void main()
+//{
+//	int num = 0;
+//	cout << "enter:";
+//	cin >> num;
+//
+//	vector<int> divisorsList = divisors(num);
+//
+//	vector<int> divisorListOptimal = divisorsOptimal(num);
+//
+//	for (int divisor : divisorsList)
+//	{
+//		cout << divisor << " ";
+//	}
+//	cout << "Optimal"<< endl;
+//	for (int divisorO : divisorListOptimal)
+//	{
+//		cout << divisorO << " ";
+//	}
+//}
