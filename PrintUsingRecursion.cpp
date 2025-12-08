@@ -11,12 +11,12 @@ void printName(int n)
 	cout << endl;
 }
 
-int main()
-{
-	cout << "Enter:";
-	int times = 0;
-	cin >> times;
-	printName(times);
-	return 0;
-
-}
+//int main()
+//{
+//	cout << "Enter:";
+//	int times = 0;
+//	cin >> times;
+//	printName(times);
+//	return 0;
+//
+//}
