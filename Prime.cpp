@@ -16,13 +16,13 @@ bool prime(int num)
 	}
 }
 
-void main()
-{
-	int num = 0;
-	cout << "Enter:";
-	cin >> num;
-	bool isprime = prime(num);
-
-	cout << (isprime? "Prime" : "NotPrime");
-	
-}
+//void main()
+//{
+//	int num = 0;
+//	cout << "Enter:";
+//	cin >> num;
+//	bool isprime = prime(num);
+//
+//	cout << (isprime? "Prime" : "NotPrime");
+//	
+//}
