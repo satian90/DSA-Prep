@@ -13,13 +13,13 @@ void printNto1(int num)
 	
 }
 
-
-int main()
-{
-	cout << "Enter:";
-	int  input = 0;
-	cin >> input;
-
-	printNto1(input);
-	return 0;
-}
+//
+//int main()
+//{
+//	cout << "Enter:";
+//	int  input = 0;
+//	cin >> input;
+//
+//	printNto1(input);
+//	return 0;
+//}

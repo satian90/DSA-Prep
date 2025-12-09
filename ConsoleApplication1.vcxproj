@@ -151,6 +151,7 @@
     <ClCompile Include="PrintNto1.cpp" />
     <ClCompile Include="PrintUsingRecursion.cpp" />
     <ClCompile Include="ReverseDigits.cpp" />
+    <ClCompile Include="SumOfN.cpp" />
     <ClCompile Include="Symmetric-ButterflyPattern.cpp" />
     <ClCompile Include="Symmetric-VoidPatternSource.cpp" />
   </ItemGroup>
