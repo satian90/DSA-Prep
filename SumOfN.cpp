@@ -13,12 +13,12 @@ int sumofnaturalnumber(int till)
 }
 
 
-int main()
-{
-	cout << "Enter:";
-	int  input = 0;
-	cin >> input;
-
-	cout <<"Sum is :"<< sumofnaturalnumber(input);
-	return 0;
-}
+//int main()
+//{
+//	cout << "Enter:";
+//	int  input = 0;
+//	cin >> input;
+//
+//	cout <<"Sum is :"<< sumofnaturalnumber(input);
+//	return 0;
+//}
