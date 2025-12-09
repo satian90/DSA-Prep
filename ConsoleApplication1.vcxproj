@@ -148,6 +148,7 @@
     <ClCompile Include="Palindrome.cpp" />
     <ClCompile Include="Prime.cpp" />
     <ClCompile Include="Print1toN.cpp" />
+    <ClCompile Include="PrintNto1.cpp" />
     <ClCompile Include="PrintUsingRecursion.cpp" />
     <ClCompile Include="ReverseDigits.cpp" />
     <ClCompile Include="Symmetric-ButterflyPattern.cpp" />

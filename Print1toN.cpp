@@ -13,12 +13,12 @@ void print1ton(int n)
 
 }
 
-int main()
-{
-	cout << "Enter:";
-	int  input = 0;
-	cin >> input;
-
-	print1ton(input);
-	return 0;
-}
+//int main()
+//{
+//	cout << "Enter:";
+//	int  input = 0;
+//	cin >> input;
+//
+//	print1ton(input);
+//	return 0;
+//}
