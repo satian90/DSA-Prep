@@ -10,13 +10,13 @@ int factorial(int till)
 	return till * factorial(till - 1);
 }
 
-
-int main()
-{
-	cout << "Enter:";
-	int  input = 0;
-	cin >> input;
-
-	cout << "Factorial is :" << factorial(input);
-	return 0;
-}
+//
+//int main()
+//{
+//	cout << "Enter:";
+//	int  input = 0;
+//	cin >> input;
+//
+//	cout << "Factorial is :" << factorial(input);
+//	return 0;
+//}
