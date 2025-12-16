@@ -147,6 +147,7 @@
     <ClCompile Include="HollowRectangle.cpp" />
     <ClCompile Include="NumberPattern.cpp" />
     <ClCompile Include="Palindrome.cpp" />
+    <ClCompile Include="PalindromeRecursion.cpp" />
     <ClCompile Include="Prime.cpp" />
     <ClCompile Include="Print1toN.cpp" />
     <ClCompile Include="PrintNto1.cpp" />

@@ -18,13 +18,13 @@ void revarray(vector<int>& arr)
 	} 
 }
 
-void main()
-{
-	vector<int> arr = { 5,4,3,2,1,0 };
-	revarray(arr);
-	for (int num : arr)
-	{
-		cout << num<<" ";
-	}
-
-} 
+//void main()
+//{
+//	vector<int> arr = { 5,4,3,2,1,0 };
+//	revarray(arr);
+//	for (int num : arr)
+//	{
+//		cout << num<<" ";
+//	}
+//
+//} 
