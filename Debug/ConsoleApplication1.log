@@ -1,5 +1,3 @@
 ﻿  FibonacciRecursion.cpp
-C:\Users\Administrator.EXAM-PRIYANKA\source\repos\ConsoleApplication1\ConsoleApplication1\FibonacciRecursion.cpp(13,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  PalindromeRecursion.cpp
-  Generating Code...
+C:\Users\Administrator.EXAM-PRIYANKA\source\repos\ConsoleApplication1\ConsoleApplication1\FibonacciRecursion.cpp(38,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
   ConsoleApplication1.vcxproj -> C:\Users\Administrator.EXAM-PRIYANKA\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.exe
