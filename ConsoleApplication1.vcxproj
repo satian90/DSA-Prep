@@ -143,6 +143,7 @@
     <ClCompile Include="CountDigits.cpp" />
     <ClCompile Include="Divisor.cpp" />
     <ClCompile Include="FactorialR.cpp" />
+    <ClCompile Include="FibonacciRecursion.cpp" />
     <ClCompile Include="GCD.cpp" />
     <ClCompile Include="HollowRectangle.cpp" />
     <ClCompile Include="NumberPattern.cpp" />

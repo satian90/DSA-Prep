@@ -16,11 +16,11 @@ bool pal(string s, int n)
 	return pal(s, n + 1);
 
 }
-
-void main()
-{
-	string s;
-	cout << "enter:";
-	cin >> s;
-	cout<< ((pal(s, 0)==true)?"The word is a palindrome":"The word is not a palindrome");
-}
+//
+//void main()
+//{
+//	string s;
+//	cout << "enter:";
+//	cin >> s;
+//	cout<< ((pal(s, 0)==true)?"The word is a palindrome":"The word is not a palindrome");
+//}
