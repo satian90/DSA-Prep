@@ -5,7 +5,7 @@ void selectionSort(int a[], int lengthOfArr)
 {
 	for (int i = 0; i <lengthOfArr-1 ; i++)
 	{
-		for (int j = i; j < lengthOfArr; j++)
+		for (int j = i+1; j < lengthOfArr; j++)
 		{
 			if (a[j] < a[i])
 			{
