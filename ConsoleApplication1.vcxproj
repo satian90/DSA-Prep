@@ -155,6 +155,7 @@
     <ClCompile Include="PrintUsingRecursion.cpp" />
     <ClCompile Include="ReverseArray.cpp" />
     <ClCompile Include="ReverseDigits.cpp" />
+    <ClCompile Include="SelectionSort.cpp" />
     <ClCompile Include="SumOfN.cpp" />
     <ClCompile Include="Symmetric-ButterflyPattern.cpp" />
     <ClCompile Include="Symmetric-VoidPatternSource.cpp" />

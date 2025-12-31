@@ -34,11 +34,11 @@ int fibRecr(int n)
 
 }
 
-void main()
-{
-	int enter=0;
-	cout << "Enter:";
-	cin >> enter;
-	int sumFib = fibRecr(enter);
-	cout << sumFib;
-}
+//void main()
+//{
+//	int enter=0;
+//	cout << "Enter:";
+//	cin >> enter;
+//	int sumFib = fibRecr(enter);
+//	cout << sumFib;
+//}
