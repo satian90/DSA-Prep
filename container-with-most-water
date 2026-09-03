@@ -9,14 +9,14 @@ public class Solution {
             var hgt = 0;
 
             
-            if(right>left)
+            if(height[right]>height[left])
             {
-                hgt = left;
+                hgt = height[left];
                 left ++;
             }
             else
             {
-                hgt = right;
+                hgt = height[right];
                 right --;
             }
             var area = hgt * width;
