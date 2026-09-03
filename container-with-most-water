@@ -1,0 +1,27 @@
+public class Solution {
+    public int MaxArea(int[] height) {
+        var left = 0;
+        var right = height.Length-1;
+        var max= 0;
+        while(left<right)
+        {
+            var width = right-left;
+            var hgt = 0;
+
+            
+            if(right>left)
+            {
+                hgt = left;
+                left ++;
+            }
+            else
+            {
+                hgt = right;
+                right --;
+            }
+            var area = hgt * width;
+            max = max>area?max:area;
+        }
+        return max;
+    }
+}
