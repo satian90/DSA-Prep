@@ -1,24 +1,26 @@
 public class Solution {
     public int FirstStableIndex(int[] nums, int k) {
-        for(int i=0 ; i< nums.Length; i++)
-        {
-            var max = nums[i];
-            var min = nums[i];
-            for(int y=0;y<i;y++)
+
+            var n = nums.Length;
+            var max = nums[0];
+
+            int[] MinArr= new int [n];
+            MinArr[n-1] = nums[n-1];
+
+            for(int y=n-2;y>=0;y--)
+            {
+                MinArr[y]=Math.Min(nums[y],MinArr[y+1]);
+            }
+            for(int y=0;y<nums.Length;y++)
             {
                 max=Math.Max(max,nums[y]);
-            }
-            for(int y=i;y<nums.Length;y++)
-            {
-                min=Math.Min(min,nums[y]);
+                var instability = max - MinArr[y];
+                 if(instability<=k)
+                {
+                    return y;
+                }
             }
             
-            var instability = max-min;
-            if(instability<=k)
-            {
-                return i;
-            }
+                   return -1;
         }
-        return -1;
     }
-}
